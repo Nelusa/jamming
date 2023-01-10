@@ -1,5 +1,5 @@
 const clientId = 'a8200239bd924e5c8fa917db6534baa3';
-const redirectURI = 'http://localhost:3000';
+const redirectURI = 'https://nelusa-jamming.vercel.app/';
 
 let accessToken;
 
